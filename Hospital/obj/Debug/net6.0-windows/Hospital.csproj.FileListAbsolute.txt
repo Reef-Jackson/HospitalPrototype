@@ -1,0 +1,136 @@
+F:\Repos\Hospital\Hospital\bin\Debug\net6.0-windows\Hospital.exe
+F:\Repos\Hospital\Hospital\bin\Debug\net6.0-windows\Hospital.deps.json
+F:\Repos\Hospital\Hospital\bin\Debug\net6.0-windows\Hospital.runtimeconfig.json
+F:\Repos\Hospital\Hospital\bin\Debug\net6.0-windows\Hospital.dll
+F:\Repos\Hospital\Hospital\bin\Debug\net6.0-windows\Hospital.pdb
+F:\Repos\Hospital\Hospital\obj\Debug\net6.0-windows\Hospital.csproj.AssemblyReference.cache
+F:\Repos\Hospital\Hospital\obj\Debug\net6.0-windows\Hospital.Form1.resources
+F:\Repos\Hospital\Hospital\obj\Debug\net6.0-windows\Hospital.Main.resources
+F:\Repos\Hospital\Hospital\obj\Debug\net6.0-windows\Hospital.Properties.Resources.resources
+F:\Repos\Hospital\Hospital\obj\Debug\net6.0-windows\Hospital.csproj.GenerateResource.cache
+F:\Repos\Hospital\Hospital\obj\Debug\net6.0-windows\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repos\Hospital\Hospital\obj\Debug\net6.0-windows\Hospital.AssemblyInfoInputs.cache
+F:\Repos\Hospital\Hospital\obj\Debug\net6.0-windows\Hospital.AssemblyInfo.cs
+F:\Repos\Hospital\Hospital\obj\Debug\net6.0-windows\Hospital.csproj.CoreCompileInputs.cache
+F:\Repos\Hospital\Hospital\obj\Debug\net6.0-windows\Hospital.dll
+F:\Repos\Hospital\Hospital\obj\Debug\net6.0-windows\refint\Hospital.dll
+F:\Repos\Hospital\Hospital\obj\Debug\net6.0-windows\Hospital.pdb
+F:\Repos\Hospital\Hospital\obj\Debug\net6.0-windows\Hospital.genruntimeconfig.cache
+F:\Repos\Hospital\Hospital\obj\Debug\net6.0-windows\ref\Hospital.dll
+F:\Repos\Hospital\Hospital\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+F:\Repos\Hospital\Hospital\bin\Debug\net6.0-windows\EntityFramework.dll
+F:\Repos\Hospital\Hospital\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+F:\Repos\Hospital\Hospital\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\Repos\Hospital\Hospital\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+F:\Repos\Hospital\Hospital\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Repos\Hospital\Hospital\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\Repos\Hospital\Hospital\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\Repos\Hospital\Hospital\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+F:\Repos\Hospital\Hospital\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+F:\Repos\Hospital\Hospital\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+F:\Repos\Hospital\Hospital\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+F:\Repos\Hospital\Hospital\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Repos\Hospital\Hospital\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Repos\Hospital\Hospital\obj\Debug\net6.0-windows\Hospital.csproj.CopyComplete
+D:\dRepos\HospitalPrototype\Hospital\bin\Debug\net6.0-windows\Hospital.exe
+D:\dRepos\HospitalPrototype\Hospital\bin\Debug\net6.0-windows\Hospital.deps.json
+D:\dRepos\HospitalPrototype\Hospital\bin\Debug\net6.0-windows\Hospital.runtimeconfig.json
+D:\dRepos\HospitalPrototype\Hospital\bin\Debug\net6.0-windows\Hospital.dll
+D:\dRepos\HospitalPrototype\Hospital\bin\Debug\net6.0-windows\ref\Hospital.dll
+D:\dRepos\HospitalPrototype\Hospital\bin\Debug\net6.0-windows\Hospital.pdb
+D:\dRepos\HospitalPrototype\Hospital\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+D:\dRepos\HospitalPrototype\Hospital\bin\Debug\net6.0-windows\EntityFramework.dll
+D:\dRepos\HospitalPrototype\Hospital\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+D:\dRepos\HospitalPrototype\Hospital\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\dRepos\HospitalPrototype\Hospital\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+D:\dRepos\HospitalPrototype\Hospital\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\dRepos\HospitalPrototype\Hospital\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\dRepos\HospitalPrototype\Hospital\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\dRepos\HospitalPrototype\Hospital\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\dRepos\HospitalPrototype\Hospital\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\dRepos\HospitalPrototype\Hospital\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\dRepos\HospitalPrototype\Hospital\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\dRepos\HospitalPrototype\Hospital\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\dRepos\HospitalPrototype\Hospital\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\dRepos\HospitalPrototype\Hospital\obj\Debug\net6.0-windows\Hospital.csproj.AssemblyReference.cache
+D:\dRepos\HospitalPrototype\Hospital\obj\Debug\net6.0-windows\Hospital.Form1.resources
+D:\dRepos\HospitalPrototype\Hospital\obj\Debug\net6.0-windows\Hospital.Main.resources
+D:\dRepos\HospitalPrototype\Hospital\obj\Debug\net6.0-windows\Hospital.Properties.Resources.resources
+D:\dRepos\HospitalPrototype\Hospital\obj\Debug\net6.0-windows\Hospital.csproj.GenerateResource.cache
+D:\dRepos\HospitalPrototype\Hospital\obj\Debug\net6.0-windows\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+D:\dRepos\HospitalPrototype\Hospital\obj\Debug\net6.0-windows\Hospital.AssemblyInfoInputs.cache
+D:\dRepos\HospitalPrototype\Hospital\obj\Debug\net6.0-windows\Hospital.AssemblyInfo.cs
+D:\dRepos\HospitalPrototype\Hospital\obj\Debug\net6.0-windows\Hospital.csproj.CoreCompileInputs.cache
+D:\dRepos\HospitalPrototype\Hospital\obj\Debug\net6.0-windows\Hospital.csproj.CopyComplete
+D:\dRepos\HospitalPrototype\Hospital\obj\Debug\net6.0-windows\Hospital.dll
+D:\dRepos\HospitalPrototype\Hospital\obj\Debug\net6.0-windows\ref\Hospital.dll
+D:\dRepos\HospitalPrototype\Hospital\obj\Debug\net6.0-windows\Hospital.pdb
+D:\dRepos\HospitalPrototype\Hospital\obj\Debug\net6.0-windows\Hospital.genruntimeconfig.cache
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\Hospital.exe
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\Hospital.deps.json
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\Hospital.runtimeconfig.json
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\Hospital.dll
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\Hospital.pdb
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.csproj.AssemblyReference.cache
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.Form1.resources
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.Main.resources
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.Properties.Resources.resources
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.csproj.GenerateResource.cache
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.AssemblyInfoInputs.cache
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.AssemblyInfo.cs
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.csproj.CopyComplete
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.dll
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\refint\Hospital.dll
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.pdb
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.genruntimeconfig.cache
+C:\Users\c2026889\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\ref\Hospital.dll
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\Hospital.exe
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\Hospital.deps.json
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\Hospital.runtimeconfig.json
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\Hospital.dll
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\ref\Hospital.dll
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\Hospital.pdb
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.csproj.AssemblyReference.cache
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.Form1.resources
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.Main.resources
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.Properties.Resources.resources
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.csproj.GenerateResource.cache
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.AssemblyInfoInputs.cache
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.AssemblyInfo.cs
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.csproj.CopyComplete
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.dll
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\ref\Hospital.dll
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.pdb
+C:\Users\reefl\Desktop\HospitalPrototype - Copy(2)\Hospital\obj\Debug\net6.0-windows\Hospital.genruntimeconfig.cache
